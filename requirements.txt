@@ -1,0 +1,2 @@
+# No external Python packages are required.
+# This program uses only Python's built-in functionality.
